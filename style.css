@@ -1,0 +1,15 @@
+body {
+  text-align: center;  
+}
+.tbl, .tbl td  {
+  border:1px solid red;
+}
+table {
+  margin: 30px auto;
+}
+.tb2 td {
+  padding: 4px;
+}
+td {
+	padding: 10px;
+}
